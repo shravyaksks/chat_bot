@@ -1,0 +1,22 @@
+[
+    {
+        "user": "hello",
+        "bot": "Hi there!"
+    },
+    {
+        "user": "how are you\"",
+        "bot": "I'm just code, but I'm doing great!"
+    },
+    {
+        "user": "bye",
+        "bot": "Goodbye!"
+    },
+    {
+        "user": "good morning",
+        "bot": "I don't understand that yet."
+    },
+    {
+        "user": "how was your day ?",
+        "bot": "I don't understand that yet."
+    }
+]
